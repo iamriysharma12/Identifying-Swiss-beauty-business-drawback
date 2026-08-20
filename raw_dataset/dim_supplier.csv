@@ -1,0 +1,4 @@
+supplier_id,supplier_name,country,category_supplied,contract_start
+SUP01,Global Beauty Group,China,Finished Goods (All Categories),2018-06-01
+SUP02,IndoPack Solutions,India,Packaging & Labeling (secondary),2022-01-15
+SUP03,EuroCare Ingredients,Germany,Skincare Actives (select SKUs),2023-03-01

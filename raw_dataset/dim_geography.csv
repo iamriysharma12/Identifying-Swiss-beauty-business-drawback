@@ -1,0 +1,32 @@
+city,state,zone,tier
+Delhi,Delhi,North,1
+Gurgaon,Haryana,North,1
+Noida,Uttar Pradesh,North,1
+Jaipur,Rajasthan,North,2
+Lucknow,Uttar Pradesh,North,2
+Chandigarh,Punjab,North,2
+Dehradun,Uttarakhand,North,3
+Agra,Uttar Pradesh,North,3
+Jodhpur,Rajasthan,North,3
+Bengaluru,Karnataka,South,1
+Chennai,Tamil Nadu,South,1
+Hyderabad,Telangana,South,1
+Kochi,Kerala,South,2
+Coimbatore,Tamil Nadu,South,2
+Vijayawada,Andhra Pradesh,South,3
+Madurai,Tamil Nadu,South,3
+Mumbai,Maharashtra,West,1
+Pune,Maharashtra,West,1
+Ahmedabad,Gujarat,West,1
+Surat,Gujarat,West,2
+Nagpur,Maharashtra,West,2
+Vadodara,Gujarat,West,3
+Nashik,Maharashtra,West,3
+Kolkata,West Bengal,East,1
+Patna,Bihar,East,2
+Bhubaneswar,Odisha,East,2
+Guwahati,Assam,East,3
+Ranchi,Jharkhand,East,3
+Bhopal,Madhya Pradesh,Central,2
+Indore,Madhya Pradesh,Central,2
+Raipur,Chhattisgarh,Central,3

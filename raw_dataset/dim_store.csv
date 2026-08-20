@@ -1,0 +1,381 @@
+store_id,store_name,channel,city,state,zone,tier
+S0001,GT Store 1,General Trade,Pune,Maharashtra,West,1.0
+S0002,GT Store 2,General Trade,Ahmedabad,Gujarat,West,1.0
+S0003,GT Store 3,General Trade,Raipur,Chhattisgarh,Central,3.0
+S0004,GT Store 4,General Trade,Noida,Uttar Pradesh,North,1.0
+S0005,GT Store 5,General Trade,Dehradun,Uttarakhand,North,3.0
+S0006,GT Store 6,General Trade,Bhubaneswar,Odisha,East,2.0
+S0007,GT Store 7,General Trade,Chandigarh,Punjab,North,2.0
+S0008,GT Store 8,General Trade,Bhubaneswar,Odisha,East,2.0
+S0009,GT Store 9,General Trade,Ahmedabad,Gujarat,West,1.0
+S0010,GT Store 10,General Trade,Ranchi,Jharkhand,East,3.0
+S0011,GT Store 11,General Trade,Noida,Uttar Pradesh,North,1.0
+S0012,GT Store 12,General Trade,Chandigarh,Punjab,North,2.0
+S0013,GT Store 13,General Trade,Vadodara,Gujarat,West,3.0
+S0014,GT Store 14,General Trade,Chennai,Tamil Nadu,South,1.0
+S0015,GT Store 15,General Trade,Gurgaon,Haryana,North,1.0
+S0016,GT Store 16,General Trade,Pune,Maharashtra,West,1.0
+S0017,GT Store 17,General Trade,Guwahati,Assam,East,3.0
+S0018,GT Store 18,General Trade,Ranchi,Jharkhand,East,3.0
+S0019,GT Store 19,General Trade,Gurgaon,Haryana,North,1.0
+S0020,GT Store 20,General Trade,Delhi,Delhi,North,1.0
+S0021,GT Store 21,General Trade,Lucknow,Uttar Pradesh,North,2.0
+S0022,GT Store 22,General Trade,Nagpur,Maharashtra,West,2.0
+S0023,GT Store 23,General Trade,Coimbatore,Tamil Nadu,South,2.0
+S0024,GT Store 24,General Trade,Lucknow,Uttar Pradesh,North,2.0
+S0025,GT Store 25,General Trade,Kochi,Kerala,South,2.0
+S0026,GT Store 26,General Trade,Surat,Gujarat,West,2.0
+S0027,GT Store 27,General Trade,Chennai,Tamil Nadu,South,1.0
+S0028,GT Store 28,General Trade,Chennai,Tamil Nadu,South,1.0
+S0029,GT Store 29,General Trade,Vijayawada,Andhra Pradesh,South,3.0
+S0030,GT Store 30,General Trade,Delhi,Delhi,North,1.0
+S0031,GT Store 31,General Trade,Lucknow,Uttar Pradesh,North,2.0
+S0032,GT Store 32,General Trade,Surat,Gujarat,West,2.0
+S0033,GT Store 33,General Trade,Vijayawada,Andhra Pradesh,South,3.0
+S0034,GT Store 34,General Trade,Noida,Uttar Pradesh,North,1.0
+S0035,GT Store 35,General Trade,Mumbai,Maharashtra,West,1.0
+S0036,GT Store 36,General Trade,Bengaluru,Karnataka,South,1.0
+S0037,GT Store 37,General Trade,Mumbai,Maharashtra,West,1.0
+S0038,GT Store 38,General Trade,Mumbai,Maharashtra,West,1.0
+S0039,GT Store 39,General Trade,Gurgaon,Haryana,North,1.0
+S0040,GT Store 40,General Trade,Patna,Bihar,East,2.0
+S0041,GT Store 41,General Trade,Agra,Uttar Pradesh,North,3.0
+S0042,GT Store 42,General Trade,Mumbai,Maharashtra,West,1.0
+S0043,GT Store 43,General Trade,Gurgaon,Haryana,North,1.0
+S0044,GT Store 44,General Trade,Bengaluru,Karnataka,South,1.0
+S0045,GT Store 45,General Trade,Chandigarh,Punjab,North,2.0
+S0046,GT Store 46,General Trade,Guwahati,Assam,East,3.0
+S0047,GT Store 47,General Trade,Pune,Maharashtra,West,1.0
+S0048,GT Store 48,General Trade,Coimbatore,Tamil Nadu,South,2.0
+S0049,GT Store 49,General Trade,Noida,Uttar Pradesh,North,1.0
+S0050,GT Store 50,General Trade,Chennai,Tamil Nadu,South,1.0
+S0051,GT Store 51,General Trade,Gurgaon,Haryana,North,1.0
+S0052,GT Store 52,General Trade,Dehradun,Uttarakhand,North,3.0
+S0053,GT Store 53,General Trade,Chennai,Tamil Nadu,South,1.0
+S0054,GT Store 54,General Trade,Dehradun,Uttarakhand,North,3.0
+S0055,GT Store 55,General Trade,Kochi,Kerala,South,2.0
+S0056,GT Store 56,General Trade,Bengaluru,Karnataka,South,1.0
+S0057,GT Store 57,General Trade,Patna,Bihar,East,2.0
+S0058,GT Store 58,General Trade,Delhi,Delhi,North,1.0
+S0059,GT Store 59,General Trade,Hyderabad,Telangana,South,1.0
+S0060,GT Store 60,General Trade,Guwahati,Assam,East,3.0
+S0061,GT Store 61,General Trade,Bengaluru,Karnataka,South,1.0
+S0062,GT Store 62,General Trade,Ahmedabad,Gujarat,West,1.0
+S0063,GT Store 63,General Trade,Surat,Gujarat,West,2.0
+S0064,GT Store 64,General Trade,Dehradun,Uttarakhand,North,3.0
+S0065,GT Store 65,General Trade,Jaipur,Rajasthan,North,2.0
+S0066,GT Store 66,General Trade,Agra,Uttar Pradesh,North,3.0
+S0067,GT Store 67,General Trade,Agra,Uttar Pradesh,North,3.0
+S0068,GT Store 68,General Trade,Chennai,Tamil Nadu,South,1.0
+S0069,GT Store 69,General Trade,Kolkata,West Bengal,East,1.0
+S0070,GT Store 70,General Trade,Madurai,Tamil Nadu,South,3.0
+S0071,GT Store 71,General Trade,Ranchi,Jharkhand,East,3.0
+S0072,GT Store 72,General Trade,Patna,Bihar,East,2.0
+S0073,GT Store 73,General Trade,Lucknow,Uttar Pradesh,North,2.0
+S0074,GT Store 74,General Trade,Gurgaon,Haryana,North,1.0
+S0075,GT Store 75,General Trade,Ahmedabad,Gujarat,West,1.0
+S0076,GT Store 76,General Trade,Delhi,Delhi,North,1.0
+S0077,GT Store 77,General Trade,Kolkata,West Bengal,East,1.0
+S0078,GT Store 78,General Trade,Vijayawada,Andhra Pradesh,South,3.0
+S0079,GT Store 79,General Trade,Delhi,Delhi,North,1.0
+S0080,GT Store 80,General Trade,Bengaluru,Karnataka,South,1.0
+S0081,GT Store 81,General Trade,Gurgaon,Haryana,North,1.0
+S0082,GT Store 82,General Trade,Ahmedabad,Gujarat,West,1.0
+S0083,GT Store 83,General Trade,Surat,Gujarat,West,2.0
+S0084,GT Store 84,General Trade,Dehradun,Uttarakhand,North,3.0
+S0085,GT Store 85,General Trade,Mumbai,Maharashtra,West,1.0
+S0086,GT Store 86,General Trade,Agra,Uttar Pradesh,North,3.0
+S0087,GT Store 87,General Trade,Gurgaon,Haryana,North,1.0
+S0088,GT Store 88,General Trade,Nashik,Maharashtra,West,3.0
+S0089,GT Store 89,General Trade,Kolkata,West Bengal,East,1.0
+S0090,GT Store 90,General Trade,Coimbatore,Tamil Nadu,South,2.0
+S0091,GT Store 91,General Trade,Delhi,Delhi,North,1.0
+S0092,GT Store 92,General Trade,Indore,Madhya Pradesh,Central,2.0
+S0093,GT Store 93,General Trade,Bhubaneswar,Odisha,East,2.0
+S0094,GT Store 94,General Trade,Ahmedabad,Gujarat,West,1.0
+S0095,GT Store 95,General Trade,Guwahati,Assam,East,3.0
+S0096,GT Store 96,General Trade,Lucknow,Uttar Pradesh,North,2.0
+S0097,GT Store 97,General Trade,Patna,Bihar,East,2.0
+S0098,GT Store 98,General Trade,Hyderabad,Telangana,South,1.0
+S0099,GT Store 99,General Trade,Nashik,Maharashtra,West,3.0
+S0100,GT Store 100,General Trade,Bengaluru,Karnataka,South,1.0
+S0101,GT Store 101,General Trade,Vadodara,Gujarat,West,3.0
+S0102,GT Store 102,General Trade,Noida,Uttar Pradesh,North,1.0
+S0103,GT Store 103,General Trade,Agra,Uttar Pradesh,North,3.0
+S0104,GT Store 104,General Trade,Gurgaon,Haryana,North,1.0
+S0105,GT Store 105,General Trade,Noida,Uttar Pradesh,North,1.0
+S0106,GT Store 106,General Trade,Gurgaon,Haryana,North,1.0
+S0107,GT Store 107,General Trade,Noida,Uttar Pradesh,North,1.0
+S0108,GT Store 108,General Trade,Lucknow,Uttar Pradesh,North,2.0
+S0109,GT Store 109,General Trade,Noida,Uttar Pradesh,North,1.0
+S0110,GT Store 110,General Trade,Vijayawada,Andhra Pradesh,South,3.0
+S0111,GT Store 111,General Trade,Gurgaon,Haryana,North,1.0
+S0112,GT Store 112,General Trade,Noida,Uttar Pradesh,North,1.0
+S0113,GT Store 113,General Trade,Bengaluru,Karnataka,South,1.0
+S0114,GT Store 114,General Trade,Lucknow,Uttar Pradesh,North,2.0
+S0115,GT Store 115,General Trade,Kolkata,West Bengal,East,1.0
+S0116,GT Store 116,General Trade,Kolkata,West Bengal,East,1.0
+S0117,GT Store 117,General Trade,Guwahati,Assam,East,3.0
+S0118,GT Store 118,General Trade,Guwahati,Assam,East,3.0
+S0119,GT Store 119,General Trade,Mumbai,Maharashtra,West,1.0
+S0120,GT Store 120,General Trade,Kochi,Kerala,South,2.0
+S0121,GT Store 121,General Trade,Chennai,Tamil Nadu,South,1.0
+S0122,GT Store 122,General Trade,Ahmedabad,Gujarat,West,1.0
+S0123,GT Store 123,General Trade,Chennai,Tamil Nadu,South,1.0
+S0124,GT Store 124,General Trade,Gurgaon,Haryana,North,1.0
+S0125,GT Store 125,General Trade,Gurgaon,Haryana,North,1.0
+S0126,GT Store 126,General Trade,Pune,Maharashtra,West,1.0
+S0127,GT Store 127,General Trade,Patna,Bihar,East,2.0
+S0128,GT Store 128,General Trade,Jaipur,Rajasthan,North,2.0
+S0129,GT Store 129,General Trade,Nashik,Maharashtra,West,3.0
+S0130,GT Store 130,General Trade,Coimbatore,Tamil Nadu,South,2.0
+S0131,GT Store 131,General Trade,Pune,Maharashtra,West,1.0
+S0132,GT Store 132,General Trade,Nashik,Maharashtra,West,3.0
+S0133,GT Store 133,General Trade,Mumbai,Maharashtra,West,1.0
+S0134,GT Store 134,General Trade,Mumbai,Maharashtra,West,1.0
+S0135,GT Store 135,General Trade,Agra,Uttar Pradesh,North,3.0
+S0136,GT Store 136,General Trade,Patna,Bihar,East,2.0
+S0137,GT Store 137,General Trade,Vadodara,Gujarat,West,3.0
+S0138,GT Store 138,General Trade,Chandigarh,Punjab,North,2.0
+S0139,GT Store 139,General Trade,Mumbai,Maharashtra,West,1.0
+S0140,GT Store 140,General Trade,Coimbatore,Tamil Nadu,South,2.0
+S0141,GT Store 141,General Trade,Kochi,Kerala,South,2.0
+S0142,GT Store 142,General Trade,Coimbatore,Tamil Nadu,South,2.0
+S0143,GT Store 143,General Trade,Kolkata,West Bengal,East,1.0
+S0144,GT Store 144,General Trade,Chandigarh,Punjab,North,2.0
+S0145,GT Store 145,General Trade,Coimbatore,Tamil Nadu,South,2.0
+S0146,GT Store 146,General Trade,Jodhpur,Rajasthan,North,3.0
+S0147,GT Store 147,General Trade,Pune,Maharashtra,West,1.0
+S0148,GT Store 148,General Trade,Delhi,Delhi,North,1.0
+S0149,GT Store 149,General Trade,Jodhpur,Rajasthan,North,3.0
+S0150,GT Store 150,General Trade,Jaipur,Rajasthan,North,2.0
+S0151,GT Store 151,General Trade,Madurai,Tamil Nadu,South,3.0
+S0152,GT Store 152,General Trade,Bengaluru,Karnataka,South,1.0
+S0153,GT Store 153,General Trade,Raipur,Chhattisgarh,Central,3.0
+S0154,GT Store 154,General Trade,Jodhpur,Rajasthan,North,3.0
+S0155,GT Store 155,General Trade,Jaipur,Rajasthan,North,2.0
+S0156,GT Store 156,General Trade,Mumbai,Maharashtra,West,1.0
+S0157,GT Store 157,General Trade,Kolkata,West Bengal,East,1.0
+S0158,GT Store 158,General Trade,Chennai,Tamil Nadu,South,1.0
+S0159,GT Store 159,General Trade,Ranchi,Jharkhand,East,3.0
+S0160,GT Store 160,General Trade,Jodhpur,Rajasthan,North,3.0
+S0161,GT Store 161,General Trade,Jodhpur,Rajasthan,North,3.0
+S0162,GT Store 162,General Trade,Dehradun,Uttarakhand,North,3.0
+S0163,GT Store 163,General Trade,Mumbai,Maharashtra,West,1.0
+S0164,GT Store 164,General Trade,Kolkata,West Bengal,East,1.0
+S0165,GT Store 165,General Trade,Chandigarh,Punjab,North,2.0
+S0166,GT Store 166,General Trade,Jodhpur,Rajasthan,North,3.0
+S0167,GT Store 167,General Trade,Noida,Uttar Pradesh,North,1.0
+S0168,GT Store 168,General Trade,Lucknow,Uttar Pradesh,North,2.0
+S0169,GT Store 169,General Trade,Jodhpur,Rajasthan,North,3.0
+S0170,GT Store 170,General Trade,Dehradun,Uttarakhand,North,3.0
+S0171,GT Store 171,General Trade,Nagpur,Maharashtra,West,2.0
+S0172,GT Store 172,General Trade,Kolkata,West Bengal,East,1.0
+S0173,GT Store 173,General Trade,Lucknow,Uttar Pradesh,North,2.0
+S0174,GT Store 174,General Trade,Nagpur,Maharashtra,West,2.0
+S0175,GT Store 175,General Trade,Lucknow,Uttar Pradesh,North,2.0
+S0176,GT Store 176,General Trade,Noida,Uttar Pradesh,North,1.0
+S0177,GT Store 177,General Trade,Raipur,Chhattisgarh,Central,3.0
+S0178,GT Store 178,General Trade,Pune,Maharashtra,West,1.0
+S0179,GT Store 179,General Trade,Ranchi,Jharkhand,East,3.0
+S0180,GT Store 180,General Trade,Gurgaon,Haryana,North,1.0
+S0181,GT Store 181,General Trade,Indore,Madhya Pradesh,Central,2.0
+S0182,GT Store 182,General Trade,Nagpur,Maharashtra,West,2.0
+S0183,GT Store 183,General Trade,Dehradun,Uttarakhand,North,3.0
+S0184,GT Store 184,General Trade,Kochi,Kerala,South,2.0
+S0185,GT Store 185,General Trade,Vadodara,Gujarat,West,3.0
+S0186,GT Store 186,General Trade,Chennai,Tamil Nadu,South,1.0
+S0187,GT Store 187,General Trade,Hyderabad,Telangana,South,1.0
+S0188,GT Store 188,General Trade,Noida,Uttar Pradesh,North,1.0
+S0189,GT Store 189,General Trade,Kochi,Kerala,South,2.0
+S0190,GT Store 190,General Trade,Hyderabad,Telangana,South,1.0
+S0191,GT Store 191,General Trade,Lucknow,Uttar Pradesh,North,2.0
+S0192,GT Store 192,General Trade,Gurgaon,Haryana,North,1.0
+S0193,GT Store 193,General Trade,Bengaluru,Karnataka,South,1.0
+S0194,GT Store 194,General Trade,Kochi,Kerala,South,2.0
+S0195,GT Store 195,General Trade,Mumbai,Maharashtra,West,1.0
+S0196,GT Store 196,General Trade,Nagpur,Maharashtra,West,2.0
+S0197,GT Store 197,General Trade,Pune,Maharashtra,West,1.0
+S0198,GT Store 198,General Trade,Kochi,Kerala,South,2.0
+S0199,GT Store 199,General Trade,Patna,Bihar,East,2.0
+S0200,GT Store 200,General Trade,Coimbatore,Tamil Nadu,South,2.0
+S0201,GT Store 201,General Trade,Patna,Bihar,East,2.0
+S0202,GT Store 202,General Trade,Gurgaon,Haryana,North,1.0
+S0203,GT Store 203,General Trade,Noida,Uttar Pradesh,North,1.0
+S0204,GT Store 204,General Trade,Delhi,Delhi,North,1.0
+S0205,GT Store 205,General Trade,Pune,Maharashtra,West,1.0
+S0206,GT Store 206,General Trade,Guwahati,Assam,East,3.0
+S0207,GT Store 207,General Trade,Chandigarh,Punjab,North,2.0
+S0208,GT Store 208,General Trade,Gurgaon,Haryana,North,1.0
+S0209,GT Store 209,General Trade,Raipur,Chhattisgarh,Central,3.0
+S0210,GT Store 210,General Trade,Chandigarh,Punjab,North,2.0
+S0211,GT Store 211,General Trade,Chandigarh,Punjab,North,2.0
+S0212,GT Store 212,General Trade,Gurgaon,Haryana,North,1.0
+S0213,GT Store 213,General Trade,Gurgaon,Haryana,North,1.0
+S0214,GT Store 214,General Trade,Indore,Madhya Pradesh,Central,2.0
+S0215,GT Store 215,General Trade,Ranchi,Jharkhand,East,3.0
+S0216,GT Store 216,General Trade,Chennai,Tamil Nadu,South,1.0
+S0217,GT Store 217,General Trade,Chandigarh,Punjab,North,2.0
+S0218,GT Store 218,General Trade,Bengaluru,Karnataka,South,1.0
+S0219,GT Store 219,General Trade,Agra,Uttar Pradesh,North,3.0
+S0220,GT Store 220,General Trade,Gurgaon,Haryana,North,1.0
+S0221,GT Store 221,General Trade,Kochi,Kerala,South,2.0
+S0222,GT Store 222,General Trade,Delhi,Delhi,North,1.0
+S0223,GT Store 223,General Trade,Bhubaneswar,Odisha,East,2.0
+S0224,GT Store 224,General Trade,Nagpur,Maharashtra,West,2.0
+S0225,GT Store 225,General Trade,Lucknow,Uttar Pradesh,North,2.0
+S0226,GT Store 226,General Trade,Dehradun,Uttarakhand,North,3.0
+S0227,GT Store 227,General Trade,Vadodara,Gujarat,West,3.0
+S0228,GT Store 228,General Trade,Madurai,Tamil Nadu,South,3.0
+S0229,GT Store 229,General Trade,Kolkata,West Bengal,East,1.0
+S0230,GT Store 230,General Trade,Coimbatore,Tamil Nadu,South,2.0
+S0231,GT Store 231,General Trade,Jodhpur,Rajasthan,North,3.0
+S0232,GT Store 232,General Trade,Pune,Maharashtra,West,1.0
+S0233,GT Store 233,General Trade,Delhi,Delhi,North,1.0
+S0234,GT Store 234,General Trade,Patna,Bihar,East,2.0
+S0235,GT Store 235,General Trade,Chennai,Tamil Nadu,South,1.0
+S0236,GT Store 236,General Trade,Chandigarh,Punjab,North,2.0
+S0237,GT Store 237,General Trade,Raipur,Chhattisgarh,Central,3.0
+S0238,GT Store 238,General Trade,Kochi,Kerala,South,2.0
+S0239,GT Store 239,General Trade,Nashik,Maharashtra,West,3.0
+S0240,GT Store 240,General Trade,Vadodara,Gujarat,West,3.0
+S0241,GT Store 241,General Trade,Mumbai,Maharashtra,West,1.0
+S0242,GT Store 242,General Trade,Kochi,Kerala,South,2.0
+S0243,GT Store 243,General Trade,Indore,Madhya Pradesh,Central,2.0
+S0244,GT Store 244,General Trade,Nagpur,Maharashtra,West,2.0
+S0245,GT Store 245,General Trade,Gurgaon,Haryana,North,1.0
+S0246,GT Store 246,General Trade,Ahmedabad,Gujarat,West,1.0
+S0247,GT Store 247,General Trade,Vijayawada,Andhra Pradesh,South,3.0
+S0248,GT Store 248,General Trade,Kochi,Kerala,South,2.0
+S0249,GT Store 249,General Trade,Madurai,Tamil Nadu,South,3.0
+S0250,GT Store 250,General Trade,Kolkata,West Bengal,East,1.0
+S0251,GT Store 251,General Trade,Delhi,Delhi,North,1.0
+S0252,GT Store 252,General Trade,Surat,Gujarat,West,2.0
+S0253,GT Store 253,General Trade,Ranchi,Jharkhand,East,3.0
+S0254,GT Store 254,General Trade,Kolkata,West Bengal,East,1.0
+S0255,GT Store 255,General Trade,Nashik,Maharashtra,West,3.0
+S0256,GT Store 256,General Trade,Lucknow,Uttar Pradesh,North,2.0
+S0257,GT Store 257,General Trade,Delhi,Delhi,North,1.0
+S0258,GT Store 258,General Trade,Ahmedabad,Gujarat,West,1.0
+S0259,GT Store 259,General Trade,Kolkata,West Bengal,East,1.0
+S0260,GT Store 260,General Trade,Lucknow,Uttar Pradesh,North,2.0
+S0261,GT Store 261,General Trade,Delhi,Delhi,North,1.0
+S0262,GT Store 262,General Trade,Gurgaon,Haryana,North,1.0
+S0263,GT Store 263,General Trade,Nashik,Maharashtra,West,3.0
+S0264,GT Store 264,General Trade,Indore,Madhya Pradesh,Central,2.0
+S0265,GT Store 265,General Trade,Chandigarh,Punjab,North,2.0
+S0266,GT Store 266,General Trade,Raipur,Chhattisgarh,Central,3.0
+S0267,GT Store 267,General Trade,Dehradun,Uttarakhand,North,3.0
+S0268,GT Store 268,General Trade,Bengaluru,Karnataka,South,1.0
+S0269,GT Store 269,General Trade,Delhi,Delhi,North,1.0
+S0270,GT Store 270,General Trade,Delhi,Delhi,North,1.0
+S0271,GT Store 271,General Trade,Noida,Uttar Pradesh,North,1.0
+S0272,GT Store 272,General Trade,Raipur,Chhattisgarh,Central,3.0
+S0273,GT Store 273,General Trade,Jodhpur,Rajasthan,North,3.0
+S0274,GT Store 274,General Trade,Delhi,Delhi,North,1.0
+S0275,GT Store 275,General Trade,Coimbatore,Tamil Nadu,South,2.0
+S0276,GT Store 276,General Trade,Coimbatore,Tamil Nadu,South,2.0
+S0277,GT Store 277,General Trade,Gurgaon,Haryana,North,1.0
+S0278,GT Store 278,General Trade,Jodhpur,Rajasthan,North,3.0
+S0279,GT Store 279,General Trade,Kochi,Kerala,South,2.0
+S0280,GT Store 280,General Trade,Mumbai,Maharashtra,West,1.0
+S0281,GT Store 281,General Trade,Raipur,Chhattisgarh,Central,3.0
+S0282,GT Store 282,General Trade,Guwahati,Assam,East,3.0
+S0283,GT Store 283,General Trade,Jaipur,Rajasthan,North,2.0
+S0284,GT Store 284,General Trade,Chandigarh,Punjab,North,2.0
+S0285,GT Store 285,General Trade,Bengaluru,Karnataka,South,1.0
+S0286,GT Store 286,General Trade,Jodhpur,Rajasthan,North,3.0
+S0287,GT Store 287,General Trade,Noida,Uttar Pradesh,North,1.0
+S0288,GT Store 288,General Trade,Gurgaon,Haryana,North,1.0
+S0289,GT Store 289,General Trade,Gurgaon,Haryana,North,1.0
+S0290,GT Store 290,General Trade,Gurgaon,Haryana,North,1.0
+S0291,GT Store 291,General Trade,Noida,Uttar Pradesh,North,1.0
+S0292,GT Store 292,General Trade,Noida,Uttar Pradesh,North,1.0
+S0293,GT Store 293,General Trade,Jodhpur,Rajasthan,North,3.0
+S0294,GT Store 294,General Trade,Chandigarh,Punjab,North,2.0
+S0295,GT Store 295,General Trade,Delhi,Delhi,North,1.0
+S0296,GT Store 296,General Trade,Vadodara,Gujarat,West,3.0
+S0297,GT Store 297,General Trade,Noida,Uttar Pradesh,North,1.0
+S0298,GT Store 298,General Trade,Kochi,Kerala,South,2.0
+S0299,GT Store 299,General Trade,Jodhpur,Rajasthan,North,3.0
+S0300,GT Store 300,General Trade,Kochi,Kerala,South,2.0
+S0301,GT Store 301,General Trade,Noida,Uttar Pradesh,North,1.0
+S0302,GT Store 302,General Trade,Kolkata,West Bengal,East,1.0
+S0303,GT Store 303,General Trade,Delhi,Delhi,North,1.0
+S0304,GT Store 304,General Trade,Mumbai,Maharashtra,West,1.0
+S0305,GT Store 305,General Trade,Coimbatore,Tamil Nadu,South,2.0
+S0306,GT Store 306,General Trade,Dehradun,Uttarakhand,North,3.0
+S0307,GT Store 307,General Trade,Ahmedabad,Gujarat,West,1.0
+S0308,GT Store 308,General Trade,Kolkata,West Bengal,East,1.0
+S0309,GT Store 309,General Trade,Patna,Bihar,East,2.0
+S0310,GT Store 310,General Trade,Bhopal,Madhya Pradesh,Central,2.0
+S0311,GT Store 311,General Trade,Kolkata,West Bengal,East,1.0
+S0312,GT Store 312,General Trade,Mumbai,Maharashtra,West,1.0
+S0313,GT Store 313,General Trade,Chennai,Tamil Nadu,South,1.0
+S0314,GT Store 314,General Trade,Gurgaon,Haryana,North,1.0
+S0315,GT Store 315,General Trade,Delhi,Delhi,North,1.0
+S0316,GT Store 316,General Trade,Nagpur,Maharashtra,West,2.0
+S0317,GT Store 317,General Trade,Agra,Uttar Pradesh,North,3.0
+S0318,GT Store 318,General Trade,Noida,Uttar Pradesh,North,1.0
+S0319,GT Store 319,General Trade,Ahmedabad,Gujarat,West,1.0
+S0320,GT Store 320,General Trade,Indore,Madhya Pradesh,Central,2.0
+S0321,MT Outlet 321,Modern Trade,Gurgaon,Haryana,North,1.0
+S0322,MT Outlet 322,Modern Trade,Bengaluru,Karnataka,South,1.0
+S0323,MT Outlet 323,Modern Trade,Noida,Uttar Pradesh,North,1.0
+S0324,MT Outlet 324,Modern Trade,Kolkata,West Bengal,East,1.0
+S0325,MT Outlet 325,Modern Trade,Hyderabad,Telangana,South,1.0
+S0326,MT Outlet 326,Modern Trade,Delhi,Delhi,North,1.0
+S0327,MT Outlet 327,Modern Trade,Delhi,Delhi,North,1.0
+S0328,MT Outlet 328,Modern Trade,Noida,Uttar Pradesh,North,1.0
+S0329,MT Outlet 329,Modern Trade,Mumbai,Maharashtra,West,1.0
+S0330,MT Outlet 330,Modern Trade,Delhi,Delhi,North,1.0
+S0331,MT Outlet 331,Modern Trade,Bengaluru,Karnataka,South,1.0
+S0332,MT Outlet 332,Modern Trade,Kolkata,West Bengal,East,1.0
+S0333,MT Outlet 333,Modern Trade,Noida,Uttar Pradesh,North,1.0
+S0334,MT Outlet 334,Modern Trade,Hyderabad,Telangana,South,1.0
+S0335,MT Outlet 335,Modern Trade,Gurgaon,Haryana,North,1.0
+S0336,MT Outlet 336,Modern Trade,Mumbai,Maharashtra,West,1.0
+S0337,MT Outlet 337,Modern Trade,Bengaluru,Karnataka,South,1.0
+S0338,MT Outlet 338,Modern Trade,Raipur,Chhattisgarh,Central,3.0
+S0339,MT Outlet 339,Modern Trade,Hyderabad,Telangana,South,1.0
+S0340,MT Outlet 340,Modern Trade,Noida,Uttar Pradesh,North,1.0
+S0341,MT Outlet 341,Modern Trade,Pune,Maharashtra,West,1.0
+S0342,MT Outlet 342,Modern Trade,Bengaluru,Karnataka,South,1.0
+S0343,MT Outlet 343,Modern Trade,Noida,Uttar Pradesh,North,1.0
+S0344,MT Outlet 344,Modern Trade,Noida,Uttar Pradesh,North,1.0
+S0345,MT Outlet 345,Modern Trade,Ahmedabad,Gujarat,West,1.0
+S0346,MT Outlet 346,Modern Trade,Raipur,Chhattisgarh,Central,3.0
+S0347,MT Outlet 347,Modern Trade,Delhi,Delhi,North,1.0
+S0348,MT Outlet 348,Modern Trade,Kolkata,West Bengal,East,1.0
+S0349,MT Outlet 349,Modern Trade,Kolkata,West Bengal,East,1.0
+S0350,MT Outlet 350,Modern Trade,Bengaluru,Karnataka,South,1.0
+S0351,MT Outlet 351,Modern Trade,Ahmedabad,Gujarat,West,1.0
+S0352,MT Outlet 352,Modern Trade,Noida,Uttar Pradesh,North,1.0
+S0353,MT Outlet 353,Modern Trade,Bengaluru,Karnataka,South,1.0
+S0354,MT Outlet 354,Modern Trade,Ahmedabad,Gujarat,West,1.0
+S0355,MT Outlet 355,Modern Trade,Pune,Maharashtra,West,1.0
+S0356,MT Outlet 356,Modern Trade,Gurgaon,Haryana,North,1.0
+S0357,MT Outlet 357,Modern Trade,Kolkata,West Bengal,East,1.0
+S0358,MT Outlet 358,Modern Trade,Ahmedabad,Gujarat,West,1.0
+S0359,MT Outlet 359,Modern Trade,Gurgaon,Haryana,North,1.0
+S0360,MT Outlet 360,Modern Trade,Ahmedabad,Gujarat,West,1.0
+S0361,MT Outlet 361,Modern Trade,Noida,Uttar Pradesh,North,1.0
+S0362,MT Outlet 362,Modern Trade,Gurgaon,Haryana,North,1.0
+S0363,MT Outlet 363,Modern Trade,Ahmedabad,Gujarat,West,1.0
+S0364,MT Outlet 364,Modern Trade,Gurgaon,Haryana,North,1.0
+S0365,MT Outlet 365,Modern Trade,Noida,Uttar Pradesh,North,1.0
+S0366,MT Outlet 366,Modern Trade,Chennai,Tamil Nadu,South,1.0
+S0367,MT Outlet 367,Modern Trade,Bengaluru,Karnataka,South,1.0
+S0368,MT Outlet 368,Modern Trade,Kolkata,West Bengal,East,1.0
+S0369,MT Outlet 369,Modern Trade,Bengaluru,Karnataka,South,1.0
+S0370,MT Outlet 370,Modern Trade,Noida,Uttar Pradesh,North,1.0
+S0371,MT Outlet 371,Modern Trade,Gurgaon,Haryana,North,1.0
+S0372,MT Outlet 372,Modern Trade,Noida,Uttar Pradesh,North,1.0
+S0373,MT Outlet 373,Modern Trade,Pune,Maharashtra,West,1.0
+S0374,MT Outlet 374,Modern Trade,Indore,Madhya Pradesh,Central,2.0
+S0375,MT Outlet 375,Modern Trade,Noida,Uttar Pradesh,North,1.0
+S0376,Swiss Beauty D2C Website,Online,Pan-India,,,
+S0377,Amazon.in,Online,Pan-India,,,
+S0378,Nykaa,Online,Pan-India,,,
+S0379,Myntra,Online,Pan-India,,,
+S0380,Flipkart,Online,Pan-India,,,

@@ -1,0 +1,103 @@
+product_id,product_name,category,sub_category,shade_family,mrp,launch_date
+P0001,Foundation - Fair 1,Makeup,Foundation,Fair,514,2023-09-15
+P0002,Foundation - Fair 2,Makeup,Foundation,Fair,553,2024-07-02
+P0003,Foundation - Fair 3,Makeup,Foundation,Fair,469,2020-09-26
+P0004,Foundation - Fair 4,Makeup,Foundation,Fair,516,2020-04-05
+P0005,Foundation - Fair 5,Makeup,Foundation,Fair,690,2020-02-28
+P0006,Foundation - Wheatish 1,Makeup,Foundation,Wheatish,516,2022-04-05
+P0007,Foundation - Wheatish 2,Makeup,Foundation,Wheatish,368,2021-12-04
+P0008,Foundation - Wheatish 3,Makeup,Foundation,Wheatish,508,2020-08-14
+P0009,Foundation - Wheatish 4,Makeup,Foundation,Wheatish,393,2019-04-14
+P0010,Foundation - Dusky 1,Makeup,Foundation,Dusky,352,2022-01-03
+P0011,Foundation - Dusky 2,Makeup,Foundation,Dusky,380,2024-12-28
+P0012,Foundation - Deep 1,Makeup,Foundation,Deep,434,2023-01-28
+P0013,Concealer - Fair 1,Makeup,Concealer,Fair,417,2022-02-04
+P0014,Concealer - Fair 2,Makeup,Concealer,Fair,469,2019-09-10
+P0015,Concealer - Fair 3,Makeup,Concealer,Fair,307,2020-07-29
+P0016,Concealer - Fair 4,Makeup,Concealer,Fair,282,2020-11-03
+P0017,Concealer - Wheatish 1,Makeup,Concealer,Wheatish,327,2023-10-11
+P0018,Concealer - Wheatish 2,Makeup,Concealer,Wheatish,324,2024-06-22
+P0019,Concealer - Wheatish 3,Makeup,Concealer,Wheatish,442,2024-08-18
+P0020,Concealer - Dusky 1,Makeup,Concealer,Dusky,275,2025-02-23
+P0021,Concealer - Deep 1,Makeup,Concealer,Deep,402,2025-02-18
+P0022,Compact - Fair 1,Makeup,Compact,Fair,405,2024-12-13
+P0023,Compact - Fair 2,Makeup,Compact,Fair,475,2019-06-13
+P0024,Compact - Fair 3,Makeup,Compact,Fair,422,2019-11-11
+P0025,Compact - Fair 4,Makeup,Compact,Fair,581,2020-11-25
+P0026,Compact - Wheatish 1,Makeup,Compact,Wheatish,365,2022-06-15
+P0027,Compact - Wheatish 2,Makeup,Compact,Wheatish,426,2019-08-10
+P0028,Compact - Wheatish 3,Makeup,Compact,Wheatish,543,2024-04-13
+P0029,Compact - Dusky 1,Makeup,Compact,Dusky,521,2022-11-07
+P0030,Compact - Dusky 2,Makeup,Compact,Dusky,419,2022-05-22
+P0031,Compact - Deep 1,Makeup,Compact,Deep,455,2020-01-13
+P0032,BB Cream - Fair 1,Makeup,BB Cream,Fair,319,2020-07-31
+P0033,BB Cream - Fair 2,Makeup,BB Cream,Fair,412,2020-01-01
+P0034,BB Cream - Fair 3,Makeup,BB Cream,Fair,325,2024-04-27
+P0035,BB Cream - Wheatish 1,Makeup,BB Cream,Wheatish,392,2022-08-25
+P0036,BB Cream - Wheatish 2,Makeup,BB Cream,Wheatish,430,2023-08-04
+P0037,BB Cream - Dusky 1,Makeup,BB Cream,Dusky,483,2020-11-06
+P0038,Lipstick 1,Makeup,Lipstick,No Shade,453,2021-04-26
+P0039,Lipstick 2,Makeup,Lipstick,No Shade,449,2021-07-12
+P0040,Lipstick 3,Makeup,Lipstick,No Shade,232,2023-09-30
+P0041,Lipstick 4,Makeup,Lipstick,No Shade,208,2023-10-28
+P0042,Lipstick 5,Makeup,Lipstick,No Shade,211,2020-04-16
+P0043,Lipstick 6,Makeup,Lipstick,No Shade,380,2024-11-17
+P0044,Lipstick 7,Makeup,Lipstick,No Shade,321,2019-10-03
+P0045,Lipstick 8,Makeup,Lipstick,No Shade,268,2024-08-06
+P0046,Lipstick 9,Makeup,Lipstick,No Shade,417,2019-08-18
+P0047,Lipstick 10,Makeup,Lipstick,No Shade,314,2020-08-26
+P0048,Lipstick 11,Makeup,Lipstick,No Shade,252,2024-04-14
+P0049,Lipstick 12,Makeup,Lipstick,No Shade,384,2020-02-14
+P0050,Lipstick 13,Makeup,Lipstick,No Shade,394,2021-08-01
+P0051,Lipstick 14,Makeup,Lipstick,No Shade,217,2021-10-23
+P0052,Kajal 1,Makeup,Kajal,No Shade,117,2020-07-13
+P0053,Kajal 2,Makeup,Kajal,No Shade,186,2023-06-09
+P0054,Kajal 3,Makeup,Kajal,No Shade,112,2024-04-25
+P0055,Kajal 4,Makeup,Kajal,No Shade,156,2024-06-17
+P0056,Kajal 5,Makeup,Kajal,No Shade,173,2021-02-12
+P0057,Kajal 6,Makeup,Kajal,No Shade,152,2022-04-25
+P0058,Eyeliner 1,Makeup,Eyeliner,No Shade,256,2020-07-20
+P0059,Eyeliner 2,Makeup,Eyeliner,No Shade,198,2020-07-12
+P0060,Eyeliner 3,Makeup,Eyeliner,No Shade,193,2020-01-03
+P0061,Eyeliner 4,Makeup,Eyeliner,No Shade,154,2024-11-14
+P0062,Eyeliner 5,Makeup,Eyeliner,No Shade,160,2024-07-18
+P0063,Eyeliner 6,Makeup,Eyeliner,No Shade,149,2023-11-09
+P0064,Mascara 1,Makeup,Mascara,No Shade,331,2022-03-26
+P0065,Mascara 2,Makeup,Mascara,No Shade,319,2022-01-24
+P0066,Mascara 3,Makeup,Mascara,No Shade,361,2022-04-23
+P0067,Mascara 4,Makeup,Mascara,No Shade,347,2022-05-08
+P0068,Mascara 5,Makeup,Mascara,No Shade,455,2021-09-18
+P0069,Highlighter 1,Makeup,Highlighter,No Shade,407,2019-10-28
+P0070,Highlighter 2,Makeup,Highlighter,No Shade,406,2019-10-14
+P0071,Highlighter 3,Makeup,Highlighter,No Shade,353,2024-12-12
+P0072,Highlighter 4,Makeup,Highlighter,No Shade,325,2022-01-04
+P0073,Highlighter 5,Makeup,Highlighter,No Shade,549,2024-12-14
+P0074,Blush 1,Makeup,Blush,No Shade,285,2020-01-09
+P0075,Blush 2,Makeup,Blush,No Shade,342,2022-06-18
+P0076,Blush 3,Makeup,Blush,No Shade,488,2020-04-18
+P0077,Blush 4,Makeup,Blush,No Shade,290,2020-07-31
+P0078,Blush 5,Makeup,Blush,No Shade,467,2019-03-10
+P0079,Blush 6,Makeup,Blush,No Shade,344,2019-09-29
+P0080,Cleanser 1,Skincare,Cleanser,No Shade,288,2024-09-22
+P0081,Cleanser 2,Skincare,Cleanser,No Shade,249,2021-01-03
+P0082,Cleanser 3,Skincare,Cleanser,No Shade,477,2022-10-19
+P0083,Cleanser 4,Skincare,Cleanser,No Shade,266,2021-11-26
+P0084,Cleanser 5,Skincare,Cleanser,No Shade,491,2021-07-02
+P0085,Moisturizer 1,Skincare,Moisturizer,No Shade,484,2022-04-28
+P0086,Moisturizer 2,Skincare,Moisturizer,No Shade,530,2020-03-03
+P0087,Moisturizer 3,Skincare,Moisturizer,No Shade,592,2025-03-05
+P0088,Moisturizer 4,Skincare,Moisturizer,No Shade,348,2024-02-10
+P0089,Moisturizer 5,Skincare,Moisturizer,No Shade,584,2023-08-19
+P0090,Serum 1,Skincare,Serum,No Shade,584,2021-12-05
+P0091,Serum 2,Skincare,Serum,No Shade,818,2019-12-15
+P0092,Serum 3,Skincare,Serum,No Shade,813,2024-10-01
+P0093,Serum 4,Skincare,Serum,No Shade,739,2021-02-17
+P0094,Sunscreen 1,Skincare,Sunscreen,No Shade,544,2019-04-25
+P0095,Sunscreen 2,Skincare,Sunscreen,No Shade,675,2021-02-20
+P0096,Sunscreen 3,Skincare,Sunscreen,No Shade,368,2023-12-18
+P0097,Sunscreen 4,Skincare,Sunscreen,No Shade,579,2022-11-21
+P0098,Face Wash 1,Skincare,Face Wash,No Shade,209,2023-09-09
+P0099,Face Wash 2,Skincare,Face Wash,No Shade,326,2023-12-16
+P0100,Face Wash 3,Skincare,Face Wash,No Shade,364,2020-04-28
+P0101,Face Wash 4,Skincare,Face Wash,No Shade,241,2024-10-08
+P0102,Face Wash 5,Skincare,Face Wash,No Shade,305,2021-09-26
